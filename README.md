@@ -1,6 +1,9 @@
 <p align="center">
+  <a href="https://github.com/Mrcici2000/Simple-Vote-Kick/releases">
+    <img src="https://img.shields.io/badge/Download-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="https://modrinth.com/plugin/simple-vote-kick">
-    <img src="https://img.shields.io/badge/Download%20on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white">
   </a>
 </p>
 
