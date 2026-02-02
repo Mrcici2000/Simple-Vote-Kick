@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://modrinth.com/plugin/simple-vote-kick">
+    <img src="https://img.shields.io/badge/Download%20on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white">
+  </a>
+</p>
+
 # Simple-Vote-Kick
 This is a plugin allows you to kick a player of a minecraft server if they are afk or just annoying.
 
