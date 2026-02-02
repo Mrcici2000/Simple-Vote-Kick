@@ -1,0 +1,12 @@
+afk-time:
+  minutes: 10
+  seconds: 0
+
+cooldown:
+  minutes: 1
+  seconds: 0
+
+vote-duration-seconds: 60
+
+admin-bypass: false
+admin-permission: votekick.bypass

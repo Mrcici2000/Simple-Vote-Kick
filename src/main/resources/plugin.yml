@@ -1,0 +1,15 @@
+name: SimpleVoteKick
+version: 1.1
+main: me.mrcici.simplevotekick.SimpleVoteKick
+api-version: 1.21
+
+permissions:
+  votekick.bypass:
+    description: Cannot be vote-kicked
+    default: op
+
+commands:
+  votekick:
+    description: Vote kick a player
+    usage: /votekick <player> | /votekick yes <player> | /votekick no <player>
+
