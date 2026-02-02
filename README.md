@@ -42,4 +42,4 @@ voting can start immediately.
 
 - Some of the code was AI generated.
 
-- If you encounter bugs or issues, please report them in our discord server if i create it ofcourse.
+- If you encounter bugs or issues, please report them in our issue tracker or discord server if i create it ofcourse.
